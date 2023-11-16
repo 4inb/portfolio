@@ -38,7 +38,7 @@
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
 
-> <a href="https://github.com/4inb/portfolio/blob/main/unit%20calculator/unit%20calculator.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/4inb/portfolio/tree/main/unit%20calculator">Ссылка на проект</a>
 
 <br> 
 
