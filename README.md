@@ -29,6 +29,7 @@
     > Задача: Первичный анализ клиентских платежей на языке Python.
   * [Проверка статистических гипотез в Python](https://github.com/4inb/portfolio/tree/main/Testing_hypotheses)
     > Задача: Необходимо провести сегментацию клиентских чеков по типу.
+  *[Непараметрические гипотезы.Ранговая статисчтика.](https://github.com/4inb/portfolio/tree/main/ranking_statistics)
 
 ## Контактная информация
 - Email: 
