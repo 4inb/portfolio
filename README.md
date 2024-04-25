@@ -32,6 +32,8 @@
   * [Непараметрические гипотезы.Ранговая статисчтика.](https://github.com/4inb/portfolio/tree/main/ranking_statistics)
   * [Пример простого А/В тестирования](https://github.com/4inb/portfolio/tree/main/AB_test)
     > Задача: Рассчет и анализ результатов A/B Теста по всей совокупности.
+  * [Пример продвинутого А/В тестирования](https://github.com/4inb/portfolio/tree/main/advanced_AB_test)
+    
 
 
 ## Контактная информация
