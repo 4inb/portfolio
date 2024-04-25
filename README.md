@@ -30,6 +30,9 @@
   * [Проверка статистических гипотез в Python](https://github.com/4inb/portfolio/tree/main/Testing_hypotheses)
     > Задача: Необходимо провести сегментацию клиентских чеков по типу.
   * [Непараметрические гипотезы.Ранговая статисчтика.](https://github.com/4inb/portfolio/tree/main/ranking_statistics)
+  * [Пример простого А/В тестирования](https://github.com/4inb/portfolio/tree/main/AB_test)
+    > Задача: Рассчет и анализ результатов A/B Теста по всей совокупности.
+
 
 ## Контактная информация
 - Email: 
