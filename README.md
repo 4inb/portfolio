@@ -35,11 +35,13 @@
   * [Пример продвинутого А/В тестирования (1)](https://github.com/4inb/portfolio/tree/main/advanced_AB_test)
   * [Пример продвинутого А/В тестирования (2)](https://github.com/4inb/portfolio/tree/main/Python_AB_test)
     > Задача: Анализ конверсии из визита в покупку в нашем магазине, оценка возможности улучшений
+  * [Контроль длительности AB теста](https://github.com/4inb/portfolio/tree/main/AB_testing_duration)
+    > Задача: подготовить почву для проведения эксперимента в агрегаторе такси
     
 
 
 ## Контактная информация
-- Email: 
+- Email:
 - LinkedIn: 
 - Личный сайт: 
 
