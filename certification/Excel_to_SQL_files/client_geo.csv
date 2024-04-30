@@ -1,0 +1,56 @@
+﻿id_city;name_city;name_region
+100;Moscow;Central Federal District
+101;Belgorod;Central Federal District
+102;Bryansk;Central Federal District
+103;Vladimir;Central Federal District
+104;Voronezh;Central Federal District
+105;Ivanovo;Central Federal District
+106;Kaluga;Central Federal District
+107;Kostroma;Central Federal District
+108;Kursk;Central Federal District
+109;Lipetsk;Central Federal District
+110;Eagle;Central Federal District
+111;Ryazan;Central Federal District
+112;Smolens;Central Federal District
+113;Tambov;Central Federal District
+114;Tver;Central Federal District
+115;Tula;Central Federal District
+116;Yaroslavl;Central Federal District
+117;Maykop;Southern Federal District
+118;Krasnodar;Southern Federal District
+119;Astrakhan;Southern Federal District
+120;Volgograd;Southern Federal District
+121;Rostov;Southern Federal District
+122;Arkhangelsk;Northwestern Federal District
+123;Vologda;Northwestern Federal District
+124;Kaliningrad;Northwestern Federal District
+125;Saint Petersburg;Northwestern Federal District
+126;Murmansk;Northwestern Federal District
+127;Novgorod;Northwestern Federal District
+128;Pskov;Northwestern Federal District
+129;Khabarovsk;Far Eastern Federal District
+130;Amur;Far Eastern Federal District
+131;Magadan;Far Eastern Federal District
+132;Sakhalin;Far Eastern Federal District
+133;Krasnoyars;Siberian Federal District
+134;Irkutsk;Siberian Federal District
+135;Kemerovo;Siberian Federal District
+136;Novosibirsk;Siberian Federal District
+137;Omsk;Siberian Federal District
+138;Tomsk;Siberian Federal District
+139;Mound;Ural Federal District
+140;Sverdlovsk;Ural Federal District
+141;Tyumen;Ural Federal District
+142;Chelyabinsk;Ural Federal District
+143;Kirov;Volga Federal District
+144;Orenburg;Volga Federal District
+145;Penza;Volga Federal District
+146;Permian;Volga Federal District
+147;Samara;Volga Federal District
+148;Saratov;Volga Federal District
+149;Ulyanovsk;Volga Federal District
+150;Makhachkala;North Caucasian Federal District
+151;Stavropol;North Caucasian Federal District
+152;Simferopol;Crimean Federal District
+153;Crimea;Crimean Federal District
+154;Sevastopol;Crimean Federal District
